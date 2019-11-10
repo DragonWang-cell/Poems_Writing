@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/basic/basic",
+    "pages/basic/basic/basic1",
+    "pages/basic/basic/basic2",
+    "pages/basic/basic/basic4",
+    "pages/basic/basic/basic5",
+    "pages/basic/basic/basic6",
+    "pages/basic/basic/basic7",
+    "pages/learning/learning",
+    "pages/writing/writing",
+    "pages/index/index",
+    "pages/userConsole/userConsole",
+    "pages/storageConsole/storageConsole",
+    "pages/databaseGuide/databaseGuide",
+    "pages/addFunction/addFunction",
+    "pages/deployFunctions/deployFunctions",
+    "pages/chooseLib/chooseLib",
+    "pages/openapi/openapi",
+    "pages/openapi/serverapi/serverapi",
+    "pages/openapi/callback/callback",
+    "pages/openapi/cloudid/cloudid",
+    "pages/im/im",
+    "pages/im/room/room"
+  ],
+  "window": {
+    "backgroundColor": "#1296db",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#d81e06",
+    "navigationBarTitleText": "诗词基础",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/basic/basic",
+      "text": "知识干货",
+      "iconPath": "images/basic.png",
+      "selectedIconPath": "images/basic_selected.png"
+    },
+    {
+      "pagePath": "pages/learning/learning",
+      "text": "好诗推荐",
+      "iconPath": "images/learning.png",
+      "selectedIconPath": "images/learning_selected.png"
+    },
+    {
+      "pagePath": "pages/writing/writing",
+      "text": "画里有诗",
+      "iconPath": "images/writing.png",
+      "selectedIconPath": "images/writing_selected.png"
+    }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
