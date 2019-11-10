@@ -1,0 +1,110 @@
+<!--pages/basic/basic/basic1.wxml-->
+
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/2.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">两个黄鹂鸣翠柳，一行白鹭上青天。
+窗含西岭千秋雪，门泊东吴万里船。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/3.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">积雨空林烟火迟，蒸藜炊黍饷东菑。
+漠漠水田飞白鹭，阴阴夏木啭黄鹂。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/4.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">清明时节雨纷纷，路上行人欲断魂。
+借问酒家何处有？牧童遥指杏花村。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/5.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">独怜幽草涧边生，上有黄鹂深树鸣。
+春潮带雨晚来急，野渡无人舟自横。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/6.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">鹅，鹅，鹅，曲项向天歌。
+白毛浮绿水，红掌拨清波。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/7.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">李白乘舟将欲行，忽闻岸上踏歌声。
+桃花潭水深千尺，不及汪伦送我情。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/8.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">日照香炉生紫烟，遥看瀑布挂前川。 
+飞流直下三千尺，疑是银河落九天。 。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/9.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">床前明月光，疑是地上霜。
+举头望明月，低头思故乡。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/10.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">渭城朝雨浥轻尘，客舍青青柳色新。
+劝君更尽一杯酒，西出阳关无故人。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/01.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">应怜屐齿印苍苔，小扣柴扉久不开。
+春色满园关不住，一枝红杏出墙来。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/02.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">半亩方塘一鉴开，天光云影共徘徊。 
+问渠那得清如许？为有源头活水来。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/03.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">闲居少邻并，草径入荒园。 
+鸟宿池边树，僧敲月下门。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/04.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">银烛秋光冷画屏，轻罗小扇扑流萤。
+天阶夜色凉如水，坐看牵牛织女星。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/05.jpg" mode='widthFix'></image></view> 
+<text class="basic2">
+<text class="basic1">蓬头稚子学垂纶，侧坐莓苔草映身。
+路人借问遥招手，怕得鱼惊不应人。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/06.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">众鸟高飞尽，孤云独去闲。
+相看两不厌，只有敬亭山。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/08.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">移舟泊烟渚，日暮客愁新。
+野旷天低树，江清月近人。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/09.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">千山鸟飞绝，万径人踪灭。
+孤舟蓑笠翁，独钓寒江雪。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../images/010.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">故园东望路漫漫，双袖龙钟泪不干。
+马上相逢无纸笔，凭君传语报平安。</text>
+</text>

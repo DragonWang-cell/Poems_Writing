@@ -1,0 +1,50 @@
+<!--pages/basic/basic/basic7.wxml-->
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/33.jpg" mode='widthFix'></image></view> 
+<text class="basic21">
+<text class="basic1">古典诗词中常用的表达方式有：叙述、议论、抒情、描写。其中，抒情可分直抒胸臆（直接抒情）、间接抒情(手法常是借景抒情、情景交融、托物言志等)。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/44.jpg" mode='widthFix'></image></view> 
+<text class="basic22">
+<text class="basic1">1、直接抒情</text>
+<text class="basic1">即作者在文中把内心强烈的感情不加掩饰地直接叙述出来，让强烈的感情激流直接倾泻而出。</text>
+<text class="basic1">如：不销魂怎地不销魂。新啼痕压旧啼痕，断肠人忆断肠人。（王实甫《十二月带尧民歌·别情》）诗歌采用直接抒情的方式，分别从“怕黄昏”、“不销魂”、“新啼痕”、“断肠人”等四个角度将少妇别后的相思之悄表现得淋漓尽致。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/55.jpg" mode='widthFix'></image></view> 
+<text class="basic22">
+<text class="basic1">2、借景抒情</text>
+<text class="basic1">属间接抒情的一种，通过对实景的描写来抒发作者的感情。</text>
+<text class="basic1">如：烟笼寒水月笼沙，夜泊秦淮近酒家。商女不知亡国恨，隔江犹唱《后庭花》。(杜牧《泊秦淮》）前两句写景，后两句抒情。所写的景并非晴朗的月夜，万里无云的碧空，而是迷蒙的烟月，笼罩着寒水白沙，景色是那么黯淡，氛围是那么冷寂，这就给后两句写作者的忧虑情绪增添了气氛，加浓了色泽，两者情景交融，浑然一体。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/66.jpg" mode='widthFix'></image></view> 
+<text class="basic22">
+<text class="basic1">3、托物言志</text>
+<text class="basic1">属间接抒情的一种，托物言志就是通对事物的描写和叙述，表达自己的志向和意愿。</text>
+<text class="basic1">如：垂缕饮清露，流响出疏桐。居高声自远，非是藉秋风。(虞世南《咏蝉》)在诗歌中作者真正所要抒发的人生感怀是：凡是品格高尚的人，总是严格要求自己，不断地提高自身修养，因而美好的声名白可远扬，不需要依靠其他人吹嘘。由此可见，写蝉是依据，而抒怀言志才是真正目的。
+</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/77.jpg" mode='widthFix'></image></view> 
+<text class="basic23">
+<text class="basic1">4、情景交融</text>
+<text class="basic1">在景物描写中融人了作者的主观感情，使诗歌达到“物我合一”，分不清哪是“景”，哪是“情”。</text>
+<text class="basic1">如：结庐在人境，而无车马喧，问君何能尔，心远地自偏。采菊东篱下，悠然见南山。山气日夕佳，飞鸟相与还。此中有真意，欲辨已忘言。(陶渊明《饮酒》) 中间四句，表面上是写景，而实际上则隐寓着诗人的一种超脱尘世、热爱自然、远离官场的感情境界。在这里既是写“景”，也是写“情”，已分不开哪是“景”，那是“情”。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/88.jpg" mode='widthFix'></image></view> 
+<text class="basic2">
+<text class="basic1">5、乐景写哀</text>
+<text class="basic1">属反衬手法中的一种，表面上写的是一种欢乐的场景，而实际上是借此来表达一种悲哀、凄楚的情绪。</text>
+<text class="basic1">如：《孔雀东南飞》文中写迎娶刘兰芝的场面，“交语速装束，络绎如浮云……从人四五百，郁郁登郡门。”其场面写得越热闹，其悲情越强烈。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/99.jpg" mode='widthFix'></image></view> 
+<text class="basic2">
+<text class="basic1">6、以景结情</text>
+<text class="basic1">诗歌在议论或抒情的过程中，戛然而止，转为写景，以景代情作结，使得诗歌“此时无情胜有情”，显得意犹未尽。</text>
+<text class="basic1">如：琵琶起舞换新声，总是关山旧别情。缭乱边愁听不尽，高高秋月照长城。(王昌龄《从军行七首》)。</text>
+</text>
+

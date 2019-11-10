@@ -1,0 +1,10 @@
+/* pages/basic/basic/basic6.wxss */
+.basic1{
+  background: greenyellow;
+  display: block;
+  margin:40rpx
+}
+.basic2{
+  background:skyblue;
+  height:1200pt
+}
