@@ -1,0 +1,9 @@
+.basic1{
+  background: rgb(236, 132, 132);
+  display: block;
+  margin:40rpx
+}
+.basic2{
+  background:skyblue;
+  height:3550pt
+}

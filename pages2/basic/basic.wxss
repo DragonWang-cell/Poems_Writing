@@ -1,0 +1,8 @@
+/* pages/basic/basic.wxss */
+.tobasic1{
+  display: inline-block;
+  width:430rpx;
+  height: 100rpx;
+  background-color: red;
+  margin: 10px;
+}

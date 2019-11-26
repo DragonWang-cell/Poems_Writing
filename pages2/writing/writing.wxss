@@ -1,0 +1,26 @@
+.basic1{
+  background: greenyellow;
+  display: block;
+  margin:40rpx
+}
+.basic2{
+  background:skyblue;
+  height:60pt
+}
+.basic21{
+  background:skyblue;
+  height:400pt
+}
+.basic22{
+  background:skyblue;
+  height:540pt
+}
+.basic23{
+  background:skyblue;
+  height:450pt
+}
+
+.basic24{
+  background:skyblue;
+  height:300pt
+}

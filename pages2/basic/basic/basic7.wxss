@@ -1,0 +1,21 @@
+.basic1{
+  background: rgb(27, 207, 198);
+  display: block;
+  margin:30rpx
+}
+.basic2{
+  background:rgba(9, 128, 98, 0.123);
+  height:180pt
+}
+.basic22{
+  background:rgba(9, 128, 98, 0.123);
+  height:220pt
+}
+.basic23{
+  background:rgba(9, 128, 98, 0.123);
+  height:250pt
+}
+.basic21{
+  background:rgba(9, 128, 98, 0.123);
+  height:80pt
+}

@@ -1,0 +1,22 @@
+
+.basic1{
+  background: rgb(236, 132, 132);
+  display: block;
+  margin:30rpx
+}
+.basic2{
+  background:skyblue;
+  height:770pt
+}
+.basic21{
+  background:skyblue;
+  height:30pt
+}
+.basic22{
+  background:skyblue;
+  height:1100pt
+}
+.basic23{
+  background:skyblue;
+  height:1260pt
+}

@@ -1,0 +1,53 @@
+<!--pages/basic/basic/basic2.wxml-->
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/4.jpg" mode='widthFix'></image></view>
+<text class="basic2">
+<text class="basic1">一、什么是押韵</text>
+<text class="basic1">押韵，就是把韵母相同或接近的字，按一定的规律排列在句子的末尾，这叫韵脚或韵字。一般来说，诗词的双数句子的末尾，必须押韵。</text>
+<text class="basic1">如《宿建德江》：</text>
+<text class="basic1">移舟泊烟渚，日暮客愁新。
+野旷天低树，江清月近人。</text>
+<text class="basic1">其中的“新”、“人”就是韵脚，韵母是“in”和“en”，在平水韵中同属“十一真”韵部，所以这首诗是押韵的。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/3.jpg" mode='widthFix'></image></view> 
+<text class="basic21">
+<text class="basic1">二、为什么要押韵</text>
+<text class="basic1">诗是韵文。不押韵就不是诗了。但是，韵文又不仅仅有诗，词牌，散曲，戏曲词，歌词，包括以前的赋，都是韵文。诗和词只是相对精致，短小的韵文。</text>
+<text class="basic1">那么为什么会有韵文产生呢？咱们最基础的韵文是什么？“顺口溜”。押韵就是为了让句子念起来“顺”，在每个句子最后用相同的韵母来表示句子完结，给说话的人找准节奏，增强句子的韵律性，让人读起来能卡在点上，抑扬顿挫，可诵可唱。</text>
+<text class="basic1">如果连顺口溜都做不到，就不要说写诗了。因为诗词的韵脚不单用来断句，找节奏，还可以通过韵脚的多种变化来反应情感，增强诗歌的感染力。</text>
+<text class="basic1">押韵也成为了诗词一种修辞方法，不再仅仅是一种形式。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/444.jpg" mode='widthFix'></image></view> 
+<text class="basic22">
+<text class="basic1">三、押韵的规则</text>
+<text class="basic1">在读古诗的时候，发现有的是全都押韵，有的又不全是为什么？押韵是只要最后一个字押韵就可以吗？押韵规则其实是根据诗歌发展而发展的。</text>
+<text class="basic1">早期的古风对押韵要求不是很严格，没有后来近体诗那么多规则。像汉武帝时发明的“柏梁体”，纯粹是皇帝大臣们在柏梁台上联句子玩，要求就是每句押韵。魏晋南北朝汉字音韵学发展以后，为了增强语句的抑扬顿挫，一般在单句就不要求押韵了，只在双数句子结尾要求押韵。</text>
+<text class="basic1">前面的断句相当于话没说完，停顿一下，如果句句押韵，人家就会产生每一句都可以做结尾的感觉，对整体篇幅产生混淆。就好像我们去听交响乐吧，明明过了高潮，大家都鼓掌了，可人家其实还有个尾子没演奏完，尴不尴尬？所以在没说完的地方就不要用韵，以示区分。
+这种情况的出现是随着音乐的丰富，诗词篇幅增加而出现的。</text>
+<text class="basic1">最终到了唐朝，诗人们制定了近体格律诗，就将押韵作为一条规则明确了下来。
+近体诗分为五绝、七绝、五律、七律、排律。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/10.jpg" mode='widthFix'></image></view> 
+<text class="basic23">
+<text class="basic1">其实押韵相对于近体诗规则来说并不复杂，只分为首句入韵和不入韵两种格式。如《宿建德江》首句就是不入韵的，而李峤的《中秋》：</text>
+<text class="basic1">圆魄上寒空，皆言四海同。
+
+安知千里外，不有雨兼风？</text>
+<text class="basic1">这种就是首句入韵格式的，“空”、“同”、“风”的韵母为“ong”、“eng”，视为同韵，在平水韵中同属于“一东”部，所以是押韵的。</text>
+<text class="basic1">近体诗一般是平声押韵，不允许邻韵通押，不允许转韵（律诗、排律），但是像这种首句入韵的格式，第一句的韵脚是可以押邻韵的，叫做“孤雁出群格”。</text>
+<text class="basic1">而古风的押韵就相对宽松很多，可以邻韵通押，中途可以转韵，但是在两联中（转韵的最小单位）不能平仄通押。可以押仄声韵，不过用仄声韵的时候，单数句就要用平声韵断句，这一点和近体格律诗相反。</text>
+</text>
+ <view style='width:100%;height:100%;text-align:center;' class="picture-2">
+ 　　<image style='width:94.5%;' class="infoImage" src="../../../images/555.jpg" mode='widthFix'></image></view> 
+<text class="basic24">
+<text class="basic1">其实都是为了创造出抑扬顿挫，有起有伏的朗诵感觉吧。比如柳宗元的《江雪》：</text>
+<text class="basic1">千山鸟飞绝，万径人踪灭。
+
+孤舟蓑笠翁，独钓寒江雪。</text>
+<text class="basic1">这首古绝押的就是仄声韵，所以在第三句就用了平声“翁”来断句。</text>
+<text class="basic1">押韵的忌讳：重韵，落韵，凑韵，倒韵，同义字相押，多音字非本义相押。这个属于升阶问题，这里就不详细举例叙述了。</text>
+<text class="basic1">诗是韵文没错，但更重要的是“诗以言志，诗以言情”。</text>
+</text>

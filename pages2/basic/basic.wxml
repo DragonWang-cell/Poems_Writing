@@ -1,0 +1,8 @@
+<!--pages/basic/basic.wxml-->
+<button class="tobasic1" bindtap="jump1"  type="primary" loading="{{loading}}">诗的种类</button>
+<button class="tobasic1" bindtap="jump2"  type="primary" loading="{{loading}}">诗的押韵</button>
+
+<button class="tobasic1" bindtap="jump4"  type="primary" loading="{{loading}}">诗中意象</button>
+<button class="tobasic1" bindtap="jump5"  type="primary" loading="{{loading}}">诗的情感</button>
+<button class="tobasic1" bindtap="jump6"  type="primary" loading="{{loading}}">表达技巧</button>
+<button class="tobasic1" bindtap="jump7"  type="primary" loading="{{loading}}">抒情方式</button>
