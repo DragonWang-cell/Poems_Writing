@@ -1,16 +1,2 @@
 <!--pages/basic/basic/basic1.wxml-->
- <view style='width:100%;height:100%;text-align:center;' class="picture-2">
- 　　<image style='width:94.5%;' class="infoImage" src="../../../images/7.jpg" mode='widthFix'></image></view>
-<text class="basic2">
-<text class="basic1">1、田园诗</text>
-<text class="basic1">2、送别诗</text>
-<text class="basic1">3、山水诗</text>
-<text class="basic1">4、爱情诗</text>
-<text class="basic1">5、励志诗</text>
-<text class="basic1">6、边塞诗</text>
-<text class="basic1">7、爱国诗</text>
-<text class="basic1">8、悼亡诗</text>
-<text class="basic1">9、战争诗</text>
-<text class="basic1">10、友情诗</text>
-<text class="basic1">11、闺怨诗</text>
-</text>
+<text>1、田园诗</text>
